@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kanedinha
 - 👀 I’m interested in Engeneering
-- 🌱 I’m currently learning C#; C/C++ assembly, for eletronics projects
+- 🌱 I’m currently learning C#; C/C++, assembly, ESP_IDF, HTML, CSS, JavaScript, for eletronics projects
 - 📫 How to reach me emerson.k337@gmail.com
 
 <!---
